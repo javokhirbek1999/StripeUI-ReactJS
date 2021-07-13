@@ -1,1 +1,0 @@
-# StripeUI-ReactJS
